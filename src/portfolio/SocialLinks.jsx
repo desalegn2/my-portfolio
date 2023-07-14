@@ -39,7 +39,7 @@ const SocialLinks = () => {
                     Telegram <FaTelegram size={30} />
                 </>
             ),
-            href: "mailto:sdesalegn21@gmail.com",
+            href: "https://web.telegram.org/a/",
         },
         {
             id: 4,
