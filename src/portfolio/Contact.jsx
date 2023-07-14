@@ -30,7 +30,7 @@ const Contact = () => {
                         <textarea
                             name='message'
                             placeholder='enter your message'
-                            rows="10"
+                            rows="4"
                             className='p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'>
                         </textarea>
                         <button className='text-white bg-gradient-to-b

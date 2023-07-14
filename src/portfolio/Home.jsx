@@ -1,6 +1,6 @@
 import React from 'react';
 import {MdOutlineKeyboardArrowRight} from "react-icons/md";
-import photoOne from "../photo/img1.jpg";
+import photoOne from "../photo/IMG_29.jpg";
 import { Link } from 'react-scroll';
 
 const Home = () => {
@@ -8,10 +8,8 @@ const Home = () => {
     <div name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 text-white'>
      <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
         <div className='flex flex-col justify-center h-full'>
-            <h2 className='text-2xl sm:text-7xl font-bold text-white'> I,am Software Student</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum sint quasi
-                 velit explicabo facere doloribus laboriosam. Quaerat amet aperiam repellendus magnam 
-                adipisci explicabo molestias, sunt, id voluptatem quidem, esse temporibus.</p>
+            <h6 className='text-2xl sm:text-7xl font-bold text-white'> I,am Software Engineering Student</h6>
+         
                 <div>
                     <Link 
                     to="project" 
@@ -26,7 +24,8 @@ const Home = () => {
                 </div>
         </div>
         <div>
-            <img src={photoOne} alt="no_image" className="rounded-2xl mx-auto w-2/3 md:w-full"/>
+        <img src={photoOne} alt="no_image" style={{ maxWidth: '50%', height: 'auto' }} className="rounded-2xl mx-auto" />
+
         </div>
      </div>
     </div>
