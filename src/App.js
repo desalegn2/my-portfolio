@@ -5,6 +5,7 @@ import SocialLinks from './portfolio/SocialLinks';
 import About from './portfolio/About';
 import Expriance from './portfolio/Expriance';
 import Contact from './portfolio/Contact';
+import Project from './portfolio/Project';
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Expriance />
       <Contact />
+      <Project/>
     </div>
   );
 }

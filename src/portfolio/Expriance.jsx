@@ -1,6 +1,5 @@
 import React from 'react';
 import cssimage from "../photo/css.jpeg";
-import djangoImage from "../photo/django.jpeg";
 import githubImage from "../photo/github.jpeg";
 import htmlImage from "../photo/html.jpeg";
 import jsImage from "../photo/javascript.jpeg";
@@ -15,42 +14,38 @@ const Expriance = () => {
             title: "CSS",
             style: "shadow-blue-500"
         },
+        
         {
             id: 2,
-            src: djangoImage,
-            title: "DJANGO",
-        },
-        {
-            id: 3,
             src: githubImage,
             title: "GitHub",
             style: "shadow-gray-400"
         },
         {
-            id: 4,
+            id: 3,
             src: htmlImage,
             title: "HTML",
             style: "shadow-orange-500"
         },
         {
-            id: 5,
+            id: 4,
             src: jsImage,
             title: "JavaScript",
             style: "shadow-yellow-500"
         },
         {
-            id: 6,
+            id: 5,
             src: laravelImage,
             title: "Laravel",
         },
         {
-            id: 7,
+            id: 6,
             src: reactImage,
             title: "React",
             style: "shadow-blue-600"
         },
         {
-            id: 8,
+            id: 7,
             src: tailwindImage,
             title: "TailWind",
             style: "shadow-sky-400"
