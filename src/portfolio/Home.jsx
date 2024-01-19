@@ -8,7 +8,7 @@ const Home = () => {
     <div name="home" className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 text-white'>
      <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
         <div className='flex flex-col justify-center h-full'>
-            <h6 className='text-2xl sm:text-7xl font-bold text-white'> I,am Software Engineering Student</h6>
+            <h6 className='text-2xl sm:text-7xl font-bold text-white'> I,am Software and Web Developer</h6>
          
                 <div>
                     <Link 

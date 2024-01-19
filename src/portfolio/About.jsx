@@ -9,7 +9,9 @@ const About = () => {
             <p className='text-4xl font-bold inline-border-b-4 border-gray-500'>About</p>
         </div>
         <p className='text-xl mt-20'>
-        I am a software engineering student at BIT, graduating in 2023. I am skilled in JavaScript, ReactJS, HTML, CSS, Laravel, and Django. I am passionate about building web applications and have a strong understanding of the full software development lifecycle
+        I am a software engineering graduate from Bahir Dar University, with a graduation date of July 22,
+2023. I am skilled in JavaScript, ReactJS, HTML, CSS, Laravel, and Django. I am passionate about building web applications and have a strong understanding of the full software development lifecycle.
+For further information about my educational background, you can see my cv.
        </p>
            
       </div>

@@ -45,10 +45,10 @@ const SocialLinks = () => {
             id: 4,
             child: (
                 <>
-                    CV <BsFillPersonLinesFill size={30} />
+                    Download CV <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: "/res.pdf",
+            href: "/desalegn.pdf",
             style: "rounded-br-md",
             download: true
         },
