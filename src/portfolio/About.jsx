@@ -9,13 +9,19 @@ const About = () => {
             <p className='text-4xl font-bold inline-border-b-4 border-gray-500'>About</p>
         </div>
         <p className='text-xl mt-20'>
-    I am a recent graduate with a degree in Software Engineering and I'm currently applying my technical 
-skills in a practical setting as a Junior Enterprise Network Deployment Engineer at IE Network Solutions Plc. 
-This role allows me to leverage my understanding of software systems while gaining valuable experience in network 
-design, implementation, and deployment.
+            Motivated and detail-oriented Enterprise Network
+            Deployment Engineer at IE Network Solutions, with
+hands-on experience in deploying and configuring
+network infrastructure. Skilled in installing and
+integrating enterprise networking solutions,
+including switches, routers, firewalls, and wireless
+systems. Familiar with AV and collaboration
+technologies, including smart room integrations.
+Eager to expand technical expertise in network
+design, implementation, and troubleshooting.
+Passionate about continuous learning and
+professional growth in enterprise networking.
 
-I'm passionate about technology and enjoy working in a fast-paced environment
- where I can learn and contribute to real-world projects.
        </p>
            
       </div>
